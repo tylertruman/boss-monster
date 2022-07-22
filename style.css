@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(24, 172, 160);
+    background-image: url(https://images.unsplash.com/photo-1534996858221-380b92700493?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTZ8fHNwYWNlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60);
+    background-size: cover;
+    min-height: 100vh;
+}
+
+nav {
+    background-color: rgba(239, 239, 239, 0.059);
+    color: rgb(220, 220, 220);
+}
+
+.icon-big {
+    font-size: 200px;
+}
+
+.hover:hover {
+    cursor: pointer;
+}
+
+.text-big {
+    font-size: 75px;
+}
+
+.card-bg {
+    background-color: rgba(239, 239, 239, 0.147);
+}
+
+.health-bg {
+    background-color: rgb(0, 206, 0);
+}
+
+
